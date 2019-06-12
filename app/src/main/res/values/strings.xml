@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="music_off">music_off</string>
+    <string name="music_on">music_on</string>
+    <string name="sound_a">sound_a</string>
+    <string name="sound_b">sound_b</string>
+    <string name="sound_c">sound_c</string>
+</resources>
